@@ -1,7 +1,7 @@
 # figma-personalportfolio
 This is my first project transforming a Figma design into my personal landing page.
 
-While developing my perosnal landing page based on a Figma design I have:
+While developing my personal landing page based on a Figma design I have:
 
 1. Analyzed the Design: by looking at its layout, colors, typography, and components.
 2. Rebranded it: by replacing placeholders with my own content — text, images, and personal details.
